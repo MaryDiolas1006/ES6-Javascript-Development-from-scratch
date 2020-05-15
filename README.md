@@ -1,4 +1,4 @@
-JavaScript-Array-Helper
+
 In ES6 JavaScript, you will have to learn the new array helper not for replacing the loop but to have another way to solve your codes, or to lessen your codes and in more organized way.
 
 how to run ?
